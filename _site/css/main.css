@@ -1401,8 +1401,8 @@ html[xmlns] .flexslider .slides {
     height: 300px; }
 
   .nav-logo-small {
-    max-width: 250px;
-    margin-top: -10px; } }
+    max-width: 200px;
+    margin-top: -15px; } }
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
@@ -1503,6 +1503,9 @@ label.tree-toggle {
   .site-logo {
     max-width: 20rem; } }
 @media (max-width: 760px) {
+  #hero {
+    padding-top: 5.5rem; }
+
   .site-logo {
     max-width: 20rem;
     margin-top: 4rem; }
@@ -2147,42 +2150,6 @@ table tr, table td {
       fill: #f37a81;
       background: transparent; }
 
-@media (max-width: 1450px) {
-  .socials svg {
-    height: 3rem;
-    width: 3rem; } }
-@media (max-width: 1255px) {
-  .socials svg {
-    height: 2.7rem;
-    width: 2.7rem; }
-
-  .footer-socials .socials svg {
-    height: 2.4rem;
-    width: 2.4rem; } }
-@media (max-width: 990px) {
-  .socials {
-    text-align: center; }
-    .socials svg {
-      height: 4rem;
-      width: 4rem; } }
-@media (max-width: 445px) {
-  .socials svg {
-    height: 3rem;
-    width: 3rem; } }
-@media (max-width: 400px) {
-  .socials svg {
-    height: 2rem;
-    width: 2rem; } }
-@media (max-width: 350px) {
-  .about .socials {
-    margin-bottom: 9rem; }
-    .about .socials svg {
-      height: 1.8rem;
-      width: 1.8rem; }
-
-  .footer-socials .socials svg {
-    height: 1.8rem;
-    width: 1.8rem; } }
 .feedbox {
   position: absolute;
   z-index: 5;
@@ -2382,6 +2349,9 @@ table tr, table td {
 .footer-pad {
   padding-top: 20px; }
 
+@media (max-width: 767px) {
+  .footer {
+    margin-bottom: 40px; } }
 .item-container {
   margin: 3rem 5rem;
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
@@ -2569,7 +2539,7 @@ form select {
 #myBtn {
   display: none;
   position: fixed;
-  bottom: 20px;
+  bottom: 40px;
   right: 30px;
   z-index: 99;
   font-size: 18px;
