@@ -2351,7 +2351,7 @@ table tr, table td {
 
 @media (max-width: 767px) {
   .footer {
-    margin-bottom: 40px; } }
+    margin-bottom: 0; } }
 .item-container {
   margin: 3rem 5rem;
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);

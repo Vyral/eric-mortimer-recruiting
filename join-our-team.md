@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Calgary Careers
 permalink: /join-our-team/
 ---
 
@@ -15,39 +15,69 @@ permalink: /join-our-team/
 </div>
 
 
-<p>Dear Real Estate Agent,</p>
+<p>Dear Real Estate Agent:</p>
 
-<p>Are you frustrated with where you’re at in your real estate business?</p>
+<p>I understand that you may be working at a real estate brokerage or are a new agent just getting started in the business. You understand your potential for success and are working hard to clear a path toward your personal and professional goals, but currently lack the support and resources you need to achieve them. </p>
 
-<p>I’d like to offer you a free subscription to my real estate agent training e-newsletter. You’ll receive:
+<p>Many brokerages promise to provide structure, coaching, and other resources, but fail to make good on their word once they’ve drawn you in. As a result of this and other factors, 87% of all real estate agents will fail to achieve the level of success they want and leave the industry within their first two years. There are 18,683 properties sold in the Calgary area each year by 5,576 agents. Although that might look like the average agent makes three sales per year, the truth is that 50% of agents sell one or no properties per year.</p>
+
+<p>The reason so many agents drop out of the business is simple: They don’t know what they’re doing. And this often isn’t their fault. It’s an unfortunate truth of our industry that the majority of brokerages out there don’t properly educate or equip their agents.</p>
+
+<p>Even the most hardworking agent won’t get anywhere if they aren’t headed in the right direction.</p>
+
+<p>It’s time to stop chasing shiny objects in the form of various social media, marketing companies, fancy websites, and begging for referrals. It’s time to forge your own path to success.</p>
+
+<p>My name is Eric Mortimer and I’ve been in the real estate business for over 18 years. Prior to joining this industry, I worked for a multi-national freight company, helping it triple its size while also investing in real estate on the side. In 2001, I started in real estate full-time. Throughout my career, I’ve been an award-winning top producer and am in the top 4% of all Realtors in Calgary. For the past five years, I’ve also been a Certified High Performance Coach and have coached hundreds of professionals in various industries.</p>
+
+<p>I’ve seen people rack up tens of thousands of dollars in credit card debt, waste time and money on useless activities, and even begin lying to their spouses as a result of their failed attempts to succeed in real estate. These people lay awake at night wondering if entering the industry was a mistake—questioning whether they should just cut their losses and fall back into a regular 9-to-5 job. They’ve simply lost hope and will be left behind in a shifting economy.</p>
+
+<p>Here’s the thing: If you don’t do something different with your career, you’ll probably wind up like the rest of the 87% of the business. You’ll go back to that regular job, forego the comfortable lifestyle you always dreamed of, and re-enter the cycle of worrying about making ends meet.</p>
+
+<p>If this sounds familiar, then consider this message your lifeline.</p>
+
+<p>I’ve personally coached agents just like you—I’ve taken people struggling to stay afloat in life, let alone their business, and turned them into top-producing professionals, and I can do the same for you. We’re not going to fix the leak in the sink of your career— we’re going to fix the well.</p>
+
+<p>We will guide you to thrive, not just survive. You will connect with life’s greater meaning and improve your health as you grow your business, your tribe, and your relationships. We’ll teach you how to control your mindset, environment, and actions so you can have an outstanding life.</p>
+
+<p>Our agents thrive because of the support we give them. We offer:
 <ul class="indent">
-<li>Q&A videos answering the most commonly asked business questions</li>
-<li>Interviews with agents in my office on what they are doing to sell homes</li>
-<li>Replays of trainings and meetings we hold, that are recorded, so you can attend 24/7</li>
-<li>Invites to special events with guest speakers that include exclusive discount codes</li>
-<li>Copies of procedure manuals, checklists, and more we use to streamline operations</li>
-<li>Market updates we publish that you can copy and paste to use in your marketing</li>
+<li>World-class comprehensive training</li>
+<li>Weekly sales training meetings</li>
+<li>Plug n’ play trackers to ensure predictable business</li>
+<li>A step-by-step roadmap to success</li>
+<li>Open houses signs</li>
+<li>Open house flags</li>
+<li>Sign post installation</li>
+<li>Professional listing photography</li>
+<li>World-class listing presentation</li>
+<li>Proven world-class buyer consultation</li>
+<li>Business cards</li>
+<li>Personalized shoots</li>
+<li>State-of-the-art Database/CRM access</li>
+<li>Multiple area office locations</li>
+<li>Full-time administrative support</li>
 </ul></p>
 
-<p>This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.</p>
+<p>We want to set you up with the tools you need to be a successful real estate agent. In addition to my personal experience in the industry, I have leveraged my exposure to various other brokerages and top vendors to create training resources that teach agents like you everything you need to know to succeed. I’m always excited to share what I have learned about how to master your mind, body, and ability to be more productive and persuasive each day of your life.</p>
 
-<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, ____ homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
+<p>I want to teach you how to be a top producer as well, one with heightened and sustained levels of clarity, energy, courage, productivity, and influence. When we combine our systems and my mentorship, you’re on the path to consistency and profitability.</p>
 
-<p>SPECIAL NEW SUBSCRIBER BONUS</p>
+<p>Our systems truly work, but don’t just take my word for it. Consider the story of one of our team’s top agents, Greg.</p>
 
-<p>When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about _____ homes every year.</p>
+<p>Greg joined our team just about a year ago. Within just his first week, he was writing contracts and doing deals. In his time on our team, he’s done a great job serving his friends, family, clients, and all of the leads we’ve given him. However, what’s even more impressive is his evolution and personal expansion. </p>
 
-<p>Feel free to unsubscribe anytime. We will never, ever, ever spam you.</p>
+<p>Greg’s success story is incredible, and now it’s time for you to start writing your own.</p>
 
-<p>The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.</p>
+<p>After all, the choice is in your hands. You can stay struggling where you’re at, join a big-box brokerage where you’ll get no support, or even quit the industry altogether and start working at a 9-to-5 job—or you can join Eric Mortimer & Associates (and our MaxWell Capital Realty Brokerage)  and start leading the life you deserve. Our onboarding process starts right away and involves learning our systems and presentations from our playbook. We’ll also get you started with role play, shadowing, and regular meetings.</p>
 
-<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.</p>
+<p>Our support-oriented environment helps professionals learn, grow, and thrive. People join us because they want to succeed, make money, and serve our community. We understand that to reach those goals, you need support, coaching, resources, and leads—so that is exactly what we provide. I guarantee that I will be there for you. If I miss an appointment with you without rescheduling, I’ll pay you $100. That’s how committed I am to your success.</p>
 
-<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
+<p>So what are you waiting for? It’s time to take control of your future and see firsthand how joining us can transform your life and career. Real estate is changing. The longer you wait to reach out, the longer you’re suppressing your true potential and the more you’ll be behind. Let’s have a conversation today and get you on the right path to personal and professional success.</p>
 
-<p>Let’s help you grow your business.</p>
+<p>I look forward to talking with you soon!</p>
 
-<p>{{site.data.settings.client.name}}</p>
+<p>Eric Mortimer</p>
+
 
 
 
