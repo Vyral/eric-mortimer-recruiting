@@ -18,7 +18,7 @@ youtube_code: 1MgWeuG6NGU
 
 {% include youtube.html %}
 
-<center><em>Is it better to work as part of a team or to work as a solo agent?</em></center>
+<p style="text-align:center;"><em>Is it better to work as part of a team or to work as a solo agent?</em></p>
 
 <br>The real estate industry is challenging to work in right now, thanks to shifting market conditions, and this has left many agents looking for ways to put their careers back on track. If you’ve been working as a solo agent, perhaps the best route moving forward is to join a team.
 
