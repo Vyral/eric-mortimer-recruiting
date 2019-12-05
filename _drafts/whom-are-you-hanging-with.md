@@ -19,9 +19,9 @@ Are you 100% satisfied with all areas of your life? What if you could take a mag
 
 For thousands of years, feng shui practicers know if you can change your environment, you can change your life. They would add or subtract things from the space. What's funny though, is they would often miss the people in that equation. People can be poisoning you as well.
 
-{% include pullquote.html %}
-
 New research on goal contagion actually shows us that we will unconsciously adopt and start pursuing the goals of the people that surround us. Have you seen this in your life?
+
+{% include pullquote.html %}
 
 As a kid, I had just graduated high school and started a construction business with my brothers. I started unconsciously started adopting self destructive behaviors. I didn't have any real examples around me of people to show me the importance of personal growth or meaningful relationships. I thought, "this just isn't going to cut it anymore. Something has to change."
 
