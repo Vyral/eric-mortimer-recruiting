@@ -13,6 +13,6 @@ youtube_alternate_image:
 youtube_code: EucTqdAm8Zw
 ---
 
-Hear how Eric Mortimer started his journey in real estate, how he overcame the struggles in the early years, and&nbsp;
+Hear how Eric Mortimer started his journey in real estate, how he overcame the struggles in the early years, and how real estate has changed his life.
 
 {% include youtube.html %}
