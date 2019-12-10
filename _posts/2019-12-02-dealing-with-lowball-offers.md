@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dealing With Lowball Offers
-date: 2019-12-10 00:00:00
+date: 2019-12-02 00:00:00
 tags:
   - Transaction Management
 excerpt: >-
