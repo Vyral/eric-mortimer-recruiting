@@ -24,6 +24,6 @@ Follow along in the video above to learn how to take action for yourself by adju
 
 0:57 - The most effective use of energy, or Qi<br>2:02 - Feng shui-ing your friends: Why we’re the average of the five people we spend the most time with<br>3:11 - My personal history of adopting the goals of those we surround ourselves with<br>4:38 - How I changed my environment and influences for the better and the biggest reason behind this shift<br>6:12 - Who do you want to spend more (and less) time with to improve areas of your life?<br>7:38 - The world needs you more than ever to step up and fulfill your potential
 
-Remember: Life is a gift. Unwrap it, play with it, and be grateful for it.
+Remember: **Life is a gift. Unwrap it, play with it, and be grateful for it.**
 
 If you’d like to know more about how to improve areas of your life or you have any other questions I can answer, don’t hesitate to reach out to me. I’d love to speak with you.
