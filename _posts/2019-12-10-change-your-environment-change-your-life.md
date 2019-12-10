@@ -16,7 +16,9 @@ youtube_code: LYEi4Hr_MXg
 
 {% include youtube.html %}
 
-Are you 100% satisfied in all areas of your life? What if you could take a magic wand and change one or two things—what would they be? What if I told you that there’s an ancient Chinese secret that will help protect what you have now and help you skyrocket in areas you want to improve? I specialize in helping people get massive momentum and create more outstanding lives by design. It’s in your moments of action that you shape your destiny.
+<center><em>By changing your environment, you can change your life. Here’s what I mean.</em></center>
+
+<br>Are you 100% satisfied in all areas of your life? What if you could take a magic wand and change one or two things—what would they be? What if I told you that there’s an ancient Chinese secret that will help protect what you have now and help you skyrocket in areas you want to improve? I specialize in helping people get massive momentum and create more outstanding lives by design. It’s in your moments of action that you shape your destiny.
 
 Follow along in the video above to learn how to take action for yourself by adjusting the environment around you. **For your convenience, I’ve provided timestamps so you can skip ahead to various sections:**
 
