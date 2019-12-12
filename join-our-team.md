@@ -66,6 +66,8 @@ permalink: /join-our-team/
 
 <p>Greg joined our team just about a year ago. Within just his first week, he was writing contracts and doing deals. In his time on our team, he’s done a great job serving his friends, family, clients, and all of the leads we’ve given him. However, what’s even more impressive is his evolution and personal expansion. </p>
 
+<img src="/img/agent.jpg" class="three-quarter-image"><br>
+
 <p>Greg’s success story is incredible, and now it’s time for you to start writing your own.</p>
 
 <p>After all, the choice is in your hands. You can stay struggling where you’re at, join a big-box brokerage where you’ll get no support, or even quit the industry altogether and start working at a 9-to-5 job—or you can join Eric Mortimer & Associates (and our MaxWell Capital Realty Brokerage)  and start leading the life you deserve. Our onboarding process starts right away and involves learning our systems and presentations from our playbook. We’ll also get you started with role play, shadowing, and regular meetings.</p>
