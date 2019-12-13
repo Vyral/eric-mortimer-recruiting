@@ -24,15 +24,15 @@ youtube_code: GRgBNjr-xxM
 
 <br>We’re in a very unique market right now and we’re seeing a lot of different kinds of offers. Not knowing how to deal with them properly can cost you thousands of dollars, an enormous amount of stress, and even a sale.
 
-Whenever you receive an offer, respond promptly and keep the momentum going. When receiving an offer, sellers have the option to accept it, reject it, or counter it, and there is a time to do each of these things. Most of the time I don’t recommend rejecting an offer right off the bat since the buyers have shown an interest in your property and have gone to the time, effort, and expense to put it together.
+Whenever you receive an offer, respond promptly and keep the momentum going. When receiving an offer, sellers have the option to accept it, reject it, or counter it, and there is a time to do each of these things. Most of the time, I don’t recommend rejecting an offer right off the bat since the buyers have shown an interest in your property and have gone through the time, effort, and expense to put it together.
 
 **So here’s what you do when you receive an offer:**
 
-**A. Make sure it is a lowball offer versus a fair offer**. One of the first things you have to determine is whether it’s a lowball offer at all. Sometimes they could be right and you could be off on your pricing. I have seen many occasions where people have turned down offers in the beginning only to eventually reduce their list price lower than what they could have sold it for.
+**A. Make sure it is a lowball offer versus a fair offer**. One of the first things you have to determine is whether it’s a lowball offer at all. Sometimes buyers can be right—*you* could be off on your pricing. I have seen many occasions where people have turned down offers in the beginning only to eventually reduce their list price lower than what they could have sold it for.
 
-**B. Don’t take it personally**—this is a good reminder for everyone, whether you are buying or selling real estate or not. I recommend that you read or re-read Don Miguel Ruiz’s book “The Four Agreements.” One important lesson is to not take the actions of others as personal attacks against you. When we get emotional, it can cloud our reason and cause us to make silly mistakes. This is another reason it’s important to have a great agent as a buffer. It’s one of those things that can be simple, but not necessarily easy.
+**B. Don’t take it personally**—this is a good reminder for everyone, whether you are buying or selling real estate or not. I recommend that you read or re-read Don Miguel Ruiz’s book “<u><a target="_blank" href="https://www.miguelruiz.com/the-four-agreements">The Four Agreements</a></u>.” One important lesson is to not take the actions of others as personal attacks against you. When we get emotional, it can cloud our reason and cause us to make silly mistakes. This is another reason it’s important to have a great agent as a buffer. It’s one of those things that can be simple but not necessarily easy.
 
-**C. Contact other people that have expressed interest in the property**. If other people have viewed the property, make sure your agent lets them know what’s happening; they may want to put in an offer, too. If that happens, you may end up having multiple offers. I have negotiated numerous times with people that started out with lowball offers and they ended up getting more than asking price.
+**C. Contact other people that have expressed interest in the property**. If other people have viewed the property, make sure your agent lets them know what’s happening; they may want to put in an offer, too. If that happens, you may end up having multiple offers. I have negotiated numerous times with people that started out with lowball offers, and they ended up getting more than asking price.
 
 Assuming that you don’t have multiple offers going, **here are some ways that you can respond to a lowball offer:**
 
@@ -42,7 +42,7 @@ Assuming that you don’t have multiple offers going, **here are some ways that 
 
 **3\. Counter, but stick close to the asking price**. Going back to the earlier example of the $300,000 house: If someone gives you a lowball offer, you could counter with $298,000. You can also go straight to this tactic and skip the humour; sometimes keeping tight and coming down slowly can bring people up in larger steps. Also, remember that there is more to a transaction than just the price. There are conditions, terms, deposits, possessions, and goods included. Price often isn’t the thing that holds up a negotiation.
 
-**4\. Adjust your list price for another buyer**. A lot of people won’t do offers substantially lower than the list price, so if it is evident that you are overpriced, you may be missing out on buyers. If your asking price is $300,000 and your last offer was $260,000 but you can’t seem to move any higher, it may be a good idea to put this negotiation on hold and, for example, reduce your list price to $280,000. This could potentially get offers for around $270,000, $275,000, or even full price.
+**4\. Adjust your list price for another buyer**. A lot of people won’t do offers substantially lower than the list price, so if it is evident that you are overpriced, you may be missing out on buyers. If your asking price is $300,000 and your last offer was $260,000, but you can’t seem to move any higher, it may be a good idea to put this negotiation on hold and, for example, reduce your list price to $280,000. This could potentially get offers for around $270,000, $275,000, or even full price.
 
 {% include pullquote.html %}
 
