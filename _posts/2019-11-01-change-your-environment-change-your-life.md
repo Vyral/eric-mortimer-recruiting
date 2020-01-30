@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Change Your Environment, Change Your Life'
-date: 2019-12-10 14:00:00
+date: 2019-11-01 14:00:00
 tags:
   - Transaction Management
 excerpt: 'By changing your environment, you can change your life. Here’s what I mean.'
