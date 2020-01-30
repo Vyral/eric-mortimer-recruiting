@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Difference Working on a Real Estate Team Makes
-date: 2019-11-18 00:00:00
+date: 2020-01-27 00:00:00
 tags:
   - Transaction Management
 excerpt: Is it better to work as part of a team or to work as a solo agent?
@@ -18,7 +18,7 @@ youtube_code: 1MgWeuG6NGU
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Is it better to work as part of a team or to work as a solo agent?</em></p>
+*Is it better to work as part of a team or to work as a solo agent?*
 
 <br>The real estate industry is challenging to work in right now, thanks to shifting market conditions, and this has left many agents looking for ways to put their careers back on track. If you’ve been working as a solo agent, perhaps the best route moving forward is to join a team.
 
