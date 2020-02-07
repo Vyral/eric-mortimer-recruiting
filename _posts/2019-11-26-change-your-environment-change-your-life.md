@@ -5,7 +5,8 @@ date: 2019-11-26 14:00:00
 tags:
   - Transaction Management
 excerpt: 'By changing your environment, you can change your life. Here’s what I mean.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Recruiting/Change+Your+Environment%2C+Change+Your+Life.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
