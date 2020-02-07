@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Difference Working on a Real Estate Team Makes
-date: 2020-01-27 00:00:00
+date: 2019-11-07 00:00:00
 tags:
   - Transaction Management
 excerpt: Is it better to work as part of a team or to work as a solo agent?
