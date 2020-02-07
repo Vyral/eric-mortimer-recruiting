@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   How should you respond to receiving a lowball offer? Here are a few tricks and
   tips for navigating this sometimes awkward situation.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Recruiting/Dealing+With+Lowball+Offers.mp4
 pullquote: >-
   Sometimes, keeping tight and coming down slowly can bring people up in larger
   steps.
