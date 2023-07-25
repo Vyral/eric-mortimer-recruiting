@@ -26,7 +26,7 @@ youtube_code: 1MgWeuG6NGU
 
 The recent increase in home prices has made home improvement loans a popular topic among homeowners. For some, taking out a home improvement loan may be a better option than purchasing a new home. At Hyland Home Loans, we offer a variety of home improvement products that can be used for existing homes or new homes.
 
-
+{% include cta-content-box.html %}
 
 We understand that adding a pool, an outdoor kitchen, or an outdoor living area to your home can be a significant investment. **That's why we offer home improvement loans that can be combined with your first mortgage to finance these projects.** This means that you can make the upgrades you want without having to pay for them out of pocket.
 
