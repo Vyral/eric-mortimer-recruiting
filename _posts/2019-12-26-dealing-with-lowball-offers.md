@@ -34,9 +34,6 @@ youtube_code: 1MgWeuG6NGU
 
 <!--We're committed to helping homeowners make the most of their investments. Whether you're looking to make improvements to your existing home or to purchase a new home, we're here to help. If you have any questions about our home improvement products or any other loan products we offer, please don't hesitate to contact us. You can reach us by phone or by filling out our online information form.-->
 
-
-
-
 *Is it better to work as part of a team or to work as a solo agent?*
 
 <br>The real estate industry is challenging to work in right now, thanks to shifting market conditions, and this has left many agents looking for ways to put their careers back on track. If you’ve been working as a solo agent, perhaps the best route moving forward is to join a team.
