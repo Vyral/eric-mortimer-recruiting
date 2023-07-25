@@ -1,0 +1,17 @@
+<div class="cta-content-box">
+    {{ site.data.settings.blog.CTA_content_box.title_markdown | markdownify }}
+
+    <ul>
+        {% for item in site.data.settings.blog.CTA_content_box.items %}
+        <li>
+            <p>
+                {{ item.markdown | markdownify | remove: '<p>' | remove: '</p>' }}
+                <a href="{{ item.url }}">
+                    {{ item.title }}
+                </a>
+            </p>
+        </li>
+        {% endfor %}
+    </ul>
+
+</div>
