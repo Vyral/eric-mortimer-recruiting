@@ -1,60 +1,46 @@
 ---
 layout: post
-title: Dealing With Lowball Offers
-date: 2019-12-26 00:00:00
+title: The Difference Working on a Real Estate Team Makes
+date: 2019-11-07 00:00:00
 tags:
   - Transaction Management
-excerpt: >-
-  How should you respond to receiving a lowball offer? Here are a few tricks and
-  tips for navigating this sometimes awkward situation.
+excerpt: Is it better to work as part of a team or to work as a solo agent?
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Recruiting/Dealing+With+Lowball+Offers.mp4
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Recruiting/The+Difference+Working+on+a+Real+Estate+Team+Makes.mp4
 pullquote: >-
-  Sometimes, keeping tight and coming down slowly can bring people up in larger
-  steps.
+  Surrounding yourself with like-minded people will always bring you greater
+  success than trying to go it alone.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/12-6---eric-mortimer---yt.jpg
-youtube_code: GRgBNjr-xxM
+youtube_alternate_image: /uploads/11-7---eric-recruiting---yt.jpg
+youtube_code: 1MgWeuG6NGU
 ---
 
 {% include youtube.html %}
 
-<center><em>How should you respond to receiving a lowball offer? Here are a few tricks and tips for navigating this sometimes awkward situation.</em></center>
+*Is it better to work as part of a team or to work as a solo agent?*
 
-<br>We’re in a very unique market right now and we’re seeing a lot of different kinds of offers. Not knowing how to deal with them properly can cost you thousands of dollars, an enormous amount of stress, and even a sale.
+<br>The real estate industry is challenging to work in right now, thanks to shifting market conditions, and this has left many agents looking for ways to put their careers back on track. If you’ve been working as a solo agent, perhaps the best route moving forward is to join a team.
 
-Whenever you receive an offer, respond promptly and keep the momentum going. When receiving an offer, sellers have the option to accept it, reject it, or counter it, and there is a time to do each of these things. Most of the time, I don’t recommend rejecting an offer right off the bat since the buyers have shown an interest in your property and have gone through the time, effort, and expense to put it together.
+But why? What’s so great about joining a team?
 
-**So here’s what you do when you receive an offer:**
+Well, first of all, while being a solo agent does mean you don’t have anyone to report to, this is actually a double-edged sword. Not reporting to anyone is great in concept, but can really damage your success and productivity in practice.
 
-**A. Make sure it is a lowball offer versus a fair offer**. One of the first things you have to determine is whether it’s a lowball offer at all. Sometimes buyers can be right—*you* could be off on your pricing. I have seen many occasions where people have turned down offers in the beginning only to eventually reduce their list price lower than what they could have sold it for.
+**The first major benefit of working with a team is that, unlike working on your own, you’ll never be without guidance or support**. Sure, you’re going to be held accountable to your potential—but isn’t that what you want?
 
-**B. Don’t take it personally**—this is a good reminder for everyone, whether you are buying or selling real estate or not. I recommend that you read or re-read Don Miguel Ruiz’s book “<u><a target="_blank" href="https://www.miguelruiz.com/the-four-agreements">The Four Agreements</a></u>.” One important lesson is to not take the actions of others as personal attacks against you. When we get emotional, it can cloud our reason and cause us to make silly mistakes. This is another reason it’s important to have a great agent as a buffer. It’s one of those things that can be simple but not necessarily easy.
-
-**C. Contact other people that have expressed interest in the property**. If other people have viewed the property, make sure your agent lets them know what’s happening; they may want to put in an offer, too. If that happens, you may end up having multiple offers. I have negotiated numerous times with people that started out with lowball offers, and they ended up getting more than asking price.
-
-Assuming that you don’t have multiple offers going, **here are some ways that you can respond to a lowball offer:**
-
-**1\. Have a sense of humour**. Bear in mind that you should build a little rapport before trying this, though. For example, if a buyer submitted an offer of $75,000 under your $300,000 asking price, you respond with a number that’s $75,000 over your asking price. If they react in the ways I expect they might, you can tell them you thought that was the game you were playing—throwing out silly numbers. Then suggest meeting in the middle at $300,000. Have some fun.
-
-**2\. Ask them to start with something better**. It’s tough to cover all of the nuances of this point, but sometimes it’s possible to get people to come up on their own without countering their offers.
-
-**3\. Counter, but stick close to the asking price**. Going back to the earlier example of the $300,000 house: If someone gives you a lowball offer, you could counter with $298,000. You can also go straight to this tactic and skip the humour; sometimes keeping tight and coming down slowly can bring people up in larger steps. Also, remember that there is more to a transaction than just the price. There are conditions, terms, deposits, possessions, and goods included. Price often isn’t the thing that holds up a negotiation.
-
-**4\. Adjust your list price for another buyer**. A lot of people won’t do offers substantially lower than the list price, so if it is evident that you are overpriced, you may be missing out on buyers. If your asking price is $300,000 and your last offer was $260,000, but you can’t seem to move any higher, it may be a good idea to put this negotiation on hold and, for example, reduce your list price to $280,000. This could potentially get offers for around $270,000, $275,000, or even full price.
+Surrounding yourself with like-minded people who are real movers and shakers in the industry will always bring you greater success than trying to go it alone. You’ve probably heard of the idea that you’re the average of the five people you spend the most time with, and this is especially true in a professional setting. That’s the real value of being on a team—it will keep you accountable and help you grow.
 
 {% include pullquote.html %}
 
-**Here is one bonus tactic that is useful in any financial negotiation:**
+**But what about the fear of splitting a commission?**
 
-Quite often, people will come to a point where neither party wants to give an inch on a particular detail. In these cases, one or both parties might say, “Why don’t we just be fair and split the difference?”
+Think of it this way: Have you ever thought to yourself that FSBO sellers are making a mistake? After all, even though they’d have to pay a commission fee to hire an agent, they’d walk away with more money in their pocket at the end of the deal by doing so. The same applies for real estate professionals. You might have to sacrifice a small portion of your revenue to be part of a team, but that minor sacrifice actually goes toward giving you more resources and a greater opportunity to succeed. Beyond that, you’ll have a mentor working alongside you.
 
-For example, suppose you are at $280,000 and the other party is offering $260,000. They might say, “Okay, let’s be fair—we are willing to split the difference and meet at $270,000 and have a done deal.”
+A lot of brokerages simply aren’t set up to offer this experience. Being on a team is truly unique in its advantages.
 
-Here’s a potential counter to this situation: “Wow, splitting the difference is a great idea. I appreciate your creativity. We were at $300,000, and we have now come down to $280,000. You are offering $270,00. Let’s split the difference and do $275,000\!”
+Of course, knowing what to do and actually doing it are two different things. It’s easy to go online and find advice about why you should join a team, but only you can take the necessary steps to follow through and do it.
 
-I hope you’ve enjoyed these tips from the vault of a certified negotiation expert, and I hope you can make or save yourself some money with them\!
+As it happens, our team offers business planning workshops for just this reason. We want to help you act on your goals, so sign up for our next event soon. **<u><a target="_blank" href="https://www.eventbrite.ca/o/eric-mortimer-6168985721">Find out more information about these workshops here</a></u>**\!
 
-If you have any questions about dealing with lowball offers, don’t hesitate to reach out to me. I’d be glad to help you.
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
