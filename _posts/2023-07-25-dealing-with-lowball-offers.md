@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Difference Working on a Real Estate Team Makes
+title: Different Views On Calgary’s Market And Predictions
 date: 2023-07-25 00:00:00
 tags:
   - Transaction Management
