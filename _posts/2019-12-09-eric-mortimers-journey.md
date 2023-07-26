@@ -6,11 +6,8 @@ tags:
   - Transaction Management
 excerpt: >-
   Today Barry Malesh from A Buyer’s Choice Home Inspections joins me to provide you with some tips on how to prepare your home for winter.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Recruiting/Dealing+With+Lowball+Offers.mp4
-pullquote: >-
-  Sometimes, keeping tight and coming down slowly can bring people up in larger
-  steps.
+enclosure: 
+pullquote: 
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
