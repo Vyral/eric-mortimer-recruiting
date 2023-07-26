@@ -5,7 +5,7 @@ date: 2019-12-26 00:00:00
 tags:
   - Transaction Management
 excerpt: >-
-  I have five tips for those looking to sell this holiday season.
+  Today Barry Malesh from A Buyer’s Choice Home Inspections joins me to provide you with some tips on how to prepare your home for winter.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Recruiting/Dealing+With+Lowball+Offers.mp4
 pullquote: >-
