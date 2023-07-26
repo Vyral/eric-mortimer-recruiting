@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Dealing With Lowball Offers
+title: What Does It Take to Sell Over the Holidays?
 date: 2019-12-26 00:00:00
 tags:
   - Transaction Management
 excerpt: >-
-  How should you respond to receiving a lowball offer? Here are a few tricks and
-  tips for navigating this sometimes awkward situation.
+  I have five tips for those looking to sell this holiday season.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Recruiting/Dealing+With+Lowball+Offers.mp4
 pullquote: >-
@@ -15,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/12-6---eric-mortimer---yt.jpg
+youtube_alternate_image: /uploads/12-10-mortimer-youtube.jpg
 youtube_code: GRgBNjr-xxM
 ---
 
