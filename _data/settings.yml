@@ -47,7 +47,7 @@ sidebar_CTA:
 #     CTA_url2: /
 hero:
   video:
-    enabled: true
+    enabled: false
     path: /uploads/houses-video.mp4
     use_overlay: true
     overlay-intensity: 0.5
