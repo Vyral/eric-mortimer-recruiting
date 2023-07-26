@@ -1,10 +1,10 @@
 ---
 layout: post
-title: The Difference Working on a Real Estate Team Makes
+title: ONE of the things you MUST do if you want to sell before interest r...
 date: 2019-11-07 00:00:00
 tags:
   - Transaction Management
-excerpt: Is it better to work as part of a team or to work as a solo agent?
+excerpt: What Home Sellers need to avoid if they want to sell their house
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Recruiting/The+Difference+Working+on+a+Real+Estate+Team+Makes.mp4
 pullquote: >-
@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/11-7---eric-recruiting---yt.jpg
+youtube_alternate_image: /uploads/5-23-photography-np.jpg
 youtube_code: 1MgWeuG6NGU
 ---
 
