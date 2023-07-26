@@ -1,17 +1,17 @@
 ---
 layout: post
-title: 'Change Your Environment, Change Your Life'
+title: C3 Major Mistakes to Avoid When Selling Your House
 date: 2019-11-26 14:00:00
 tags:
   - Transaction Management
-excerpt: 'By changing your environment, you can change your life. Here’s what I mean.'
+excerpt: What are the three worst home selling mistakes that you need to avoid? I’ll go over each of them today.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Recruiting/Change+Your+Environment%2C+Change+Your+Life.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/11-26---eric-mortimer---yt.jpg
+youtube_alternate_image: /uploads/maxresdefault.jpg
 youtube_code: LYEi4Hr_MXg
 ---
 
