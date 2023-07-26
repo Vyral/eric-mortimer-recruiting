@@ -13,8 +13,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/11-7---eric-recruiting---yt.jpg
-youtube_code: 1MgWeuG6NGU
+youtube_alternate_image: /uploads/good_and_bad.jpg
+youtube_code: 7bF9ZzAsIB0
 ---
 
 
