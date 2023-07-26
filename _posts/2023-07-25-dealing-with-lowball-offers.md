@@ -24,16 +24,19 @@ youtube_code: 7bF9ZzAsIB0
 
 [![](/uploads/button.png)](https://free-mortgage-rate-quote-jonathan-knoblock.paperform.co){: target="_blank" rel="noopener"}
 
-The recent increase in home prices has made home improvement loans a popular topic among homeowners. For some, taking out a home improvement loan may be a better option than purchasing a new home. At Hyland Home Loans, we offer a variety of home improvement products that can be used for existing homes or new homes.
+What does Calgary's real estate market have to do with the picture I’m holding at 0:37 in the video above, and where are we heading in 2023? Today I’m sharing the truth about our market and my predictions.
+
+If you look at the picture from a distance, many people will see a skull, which is often associated with thoughts of death, doom, and gloom. In a way, that's what you see in the news or on social media, which is why it’s dangerous to believe everything you see there. Upon closer look at the picture, at 1:07 in the video, you get another view, and the perspective changes. That's a lot like the Calgary market. **Some people can see the negative, while some see the positive.**
 
 {% include cta-content-box.html %}
 
-We understand that adding a pool, an outdoor kitchen, or an outdoor living area to your home can be a significant investment. **That's why we offer home improvement loans that can be combined with your first mortgage to finance these projects.** This means that you can make the upgrades you want without having to pay for them out of pocket.
+One of the things that people see that contributes to the negativity in the market is interest rates and their continuing increases. As you may have heard, the Bank of Canada just raised interest rates by another 25 basis points. They may not lighten up on rates until 2024 to fight off inflation. Right now, inflation is over 8% and came down to 6% in December. They want to get it around a two or three mark.
+
 
 {% include pullquote.html %}
 
-Our home improvement loans can also be used to renovate the interior of your home. If you're considering purchasing a fixer-upper, we can help you finance the cost of the necessary renovations. **This way, you can turn a diamond in the rough into your dream home.**
+On the positive side, some great news and events are happening in our area. For example, Canada announced that it will have an aircraft manufacturing facility just outside of Calgary. **The Economist also rated Calgary as the number one city in North America,** contributing to our positive net migration. If you don’t know, net migration is the number of people moving into Calgary and Alberta versus moving out. The greater the demand for homes in our area, the greater the prices.
 
-We're committed to helping homeowners make the most of their investments. Whether you're looking to make improvements to your existing home or to purchase a new home, we're here to help. If you have any questions about our home improvement products or any other loan products we offer, please don't hesitate to contact us. You can reach us by phone or by filling out our online information form.
+If you want to learn something specific about your property or have other real estate-related concerns, call or email me. I’m always happy to help.
 
 
