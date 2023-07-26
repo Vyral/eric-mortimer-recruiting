@@ -1,11 +1,11 @@
 ---
 layout: post
-title: What Does It Take to Sell Over the Holidays?
+title: Winter Is Already Here: Is Your Home Ready?
 date: 2019-12-09 00:00:00
 tags:
   - Transaction Management
 excerpt: >-
-  I have five tips for those looking to sell this holiday season.
+  Today Barry Malesh from A Buyer’s Choice Home Inspections joins me to provide you with some tips on how to prepare your home for winter.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Recruiting/Dealing+With+Lowball+Offers.mp4
 pullquote: >-
@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/12-10-mortimer-youtube.jpg
+youtube_alternate_image: /uploads/eric-mortimer-ss-nov-1-no-play.jpg
 youtube_code: GRgBNjr-xxM
 ---
 
