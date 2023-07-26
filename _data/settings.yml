@@ -45,6 +45,50 @@ sidebar_CTA:
 #     CTA_text2: "Sell more homes by joining forces with the our dynamic real estate company."
 #     CTA_link_text2: "Career Info"
 #     CTA_url2: /
+hero:
+  video:
+    enabled: true
+    path: /uploads/houses-video.mp4
+    use_overlay: true
+    overlay-intensity: 0.5
+  hero_image: /img/gray.png
+  use_overlay: true
+  overlay-intensity: 0.5
+  hero_tabs:
+    enabled: false
+    tabs:
+      - title: 'Call to Action #1'
+        headline: A Benefit-Driven Headlines Goes Here
+        subheadline: Write a sentence about what they will get from you.
+        button_text: 'CTA Button #1'
+        button_link: '#'
+      - title: 'Call to Action #2'
+        headline: Tell Them The Benefit of Your Offer
+        subheadline: Write a sentence about what they will get from you.
+        button_text: 'CTA Button #2'
+        button_link: '#'
+      - title: 'Call to Action #3'
+        headline: Capture Their Attention With a Headline
+        subheadline: Write a sentence about what they will get from you.
+        button_text: 'CTA Button #3'
+        button_link: '#'
+      - title: 'Call to Action #4'
+        headline: Give Them a Great Reason to Respond
+        subheadline: Write a sentence about what they will get from you.
+        button_text: 'CTA Button #4'
+        button_link: '#'
+  header: Main Benefit Driven Headline Goes Here
+  header_color: '#ffffff'
+  subheader: >-
+    This is where you put a clear description of your primary offer and why they
+    should click the call to action button below.
+  subheader_color: '#ffffff'
+  button_text: 'Call to Action #1'
+  button_link: '#'
+  show_sidenav_link: true
+  show_footer_link: true
+  add_button_to_hero: false
+
 blog:
   CTA_main_box_markdown: >-
     **Take one step closer to the home you love.** Use my secure, online loan
