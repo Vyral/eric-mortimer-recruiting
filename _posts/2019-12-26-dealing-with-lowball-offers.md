@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/5-23-photography-np.jpg
+youtube_alternate_image: /uploads/12-10-mortimer-youtube.jpg
 youtube_code: GRgBNjr-xxM
 ---
 
