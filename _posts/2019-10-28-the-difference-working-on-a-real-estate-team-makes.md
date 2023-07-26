@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ONE of the things you MUST do if you want to sell before interest r...
+title: How To Play (and Win) the Real Estate “Squid Game”
 date: 2019-11-07 00:00:00
 tags:
   - Transaction Management
-excerpt: What Home Sellers need to avoid if they want to sell their house
+excerpt: Here are the numbers you need to put yourself in a position to win.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Recruiting/The+Difference+Working+on+a+Real+Estate+Team+Makes.mp4
 pullquote: >-
@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/5-23-photography-np.jpg
+youtube_alternate_image: /uploads/maxresdefault-(1).jpg
 youtube_code: 1MgWeuG6NGU
 ---
 
