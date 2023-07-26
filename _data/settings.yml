@@ -52,6 +52,8 @@ hero:
     use_overlay: true
     overlay-intensity: 0.5
   hero_image: /img/gray.png
+  logoimage: /uploads/logo.png
+  logoname: Eric Mortimer Logo
   use_overlay: true
   overlay-intensity: 0.5
   hero_tabs:
