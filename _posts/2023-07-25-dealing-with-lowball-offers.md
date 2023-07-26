@@ -8,8 +8,7 @@ excerpt: Is it better to work as part of a team or to work as a solo agent?
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Recruiting/The+Difference+Working+on+a+Real+Estate+Team+Makes.mp4
 pullquote: >-
-  Surrounding yourself with like-minded people will always bring you greater
-  success than trying to go it alone.
+  It’s dangerous to believe everything you see on the news or social media.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
