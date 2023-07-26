@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: Winter Is Already Here: Is Your Home Ready?
 date: 2019-12-09 14:00:00
@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/12-10-mortimer-youtube.jpg
+youtube_alternate_image: /uploads/eric-mortimer-ss-nov-1-no-play.jpg
 youtube_code: GRgBNjr-xxM
 ---
 
