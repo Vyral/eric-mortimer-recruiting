@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Does It Take to Sell Over the Holidays?
+title: Winter Is Already Here: Is Your Home Ready?
 date: 2019-12-26 00:00:00
 tags:
   - Transaction Management
