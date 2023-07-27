@@ -3,7 +3,7 @@ layout: post
 title: Different Views On Calgary’s Market And Predictions
 date: 2023-07-25 00:00:00
 tags:
-  - Transaction Management
+  - Market Update
 excerpt: People have different opinions of the Calgary real estate market.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Recruiting/The+Difference+Working+on+a+Real+Estate+Team+Makes.mp4
