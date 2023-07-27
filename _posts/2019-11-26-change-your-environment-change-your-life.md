@@ -3,7 +3,7 @@ layout: post
 title: C3 Major Mistakes to Avoid When Selling Your House
 date: 2019-11-26 14:00:00
 tags:
-  - Transaction Management
+  - Real Estate
 excerpt: What are the three worst home selling mistakes that you need to avoid? I’ll go over each of them today.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Recruiting/Change+Your+Environment%2C+Change+Your+Life.mp4
