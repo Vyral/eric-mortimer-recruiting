@@ -3,7 +3,7 @@ layout: post
 title: What Does It Take to Sell Over the Holidays?
 date: 2019-12-26 00:00:00
 tags:
-  - Transaction Management
+  - Home Buyer Tips
 excerpt: >-
   I have five tips for those looking to sell this holiday season.
 enclosure: >-
