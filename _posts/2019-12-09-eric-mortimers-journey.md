@@ -3,7 +3,7 @@ layout: post
 title: 'Winter Is Already Here: Is Your Home Ready?'
 date: 2019-12-26 00:00:00
 tags:
-  - Transaction Management
+  - Home Seller Tips
 excerpt: >-
   Today Barry Malesh from A Buyer’s Choice Home Inspections joins me to provide you with some tips on how to prepare your home for winter.
 enclosure: >-
