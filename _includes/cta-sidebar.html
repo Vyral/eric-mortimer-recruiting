@@ -1,3 +1,6 @@
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nup9fF-F7P0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <div class="photo-cta">
   <img src="/img/cta-images/join_our_team.png" class="photo-cta-container"/>
   <div class="cta-button"><a href="/join-our-team">Apply Now   <i class="fa fa-angle-double-right"></i></a></div>
@@ -21,4 +24,30 @@
   <div class="cta-button"><a href="https://ericmortimer.eventbrite.ca/">Reserve Your Seat   <i class="fa fa-angle-double-right"></i></a></div>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nup9fF-F7P0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="library-container">
+		<h5>Categories</h5>
+		<hr>
+		{% for tag in site.tags %}
+				<div class="catbloc" id="{{ tag | first | remove:' ' }}">
+						<li>
+							<label class="tree-toggle nav-header">{{ tag | first }}</label>
+						<ul class="nav nav-list tree" style="display: none;">
+							 {% for posts in tag %}
+								 {% for post in posts %}
+									 {% if post.url %}
+										 <li>
+											 <!-- <time>{{ post.date | date: "%B %-d, %Y" }}</time> -->
+											 <a href="{{ post.url }}">
+												 {{ post.title }}
+											 </a>
+										 </li>
+									 {% endif %}
+								 {% endfor %}
+							 {% endfor %}
+						</ul>
+						</li>
+				</div>
+		{% endfor %}
+</div>
+
+
