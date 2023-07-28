@@ -5,8 +5,8 @@ show_custom_links: true
 custom_links:
   - title: Guaranteed sale
     url: /join-our-team/
-  - title: Contact
-    url: https://ericmortimer.eventbrite.ca/
+  # - title: Contact
+  #   url: https://ericmortimer.eventbrite.ca/
   - title: Home Valuation
     url: /strategy-call/
   - title: Home Search
