@@ -7,7 +7,7 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Guaranteed sale
-    url: /join-our-team/
+    url: https://mortimer-offer.paperform.co/
   - title: Home Valuation
     url: https://mortimer-value.paperform.co/
   - title: Home Search
